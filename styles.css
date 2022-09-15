@@ -25,3 +25,21 @@ h1 {
   background-position: 100% 50%;
 }
 
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 700px;
+  color:#161616;
+  font-size: 16px;
+  
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+video {
+  width: 100vw;
+}
